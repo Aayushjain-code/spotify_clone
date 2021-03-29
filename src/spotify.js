@@ -2,7 +2,7 @@
 // documentation/web-playback-sdk
 
 export const authEndpoint = "https://accounts.spotify.com/authorize";
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "https://gifted-bhaskara-a6e19f.netlify.app/";
 const clientId = "b865163e642445f69944098780c53d57";
 
 const scopes = [
